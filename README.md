@@ -1,2 +1,2 @@
-# HanComMDSProject
-Repository for HanCom MDS Project (Team Lotto)
+# HanComMDS YOLO
+Repository for YOLO Project (Team Lotto)
